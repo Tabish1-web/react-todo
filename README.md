@@ -1,4 +1,4 @@
-# TODO APP REACT
+# `TODO APP REACT`
 
 This is todo application in which you add delete update todo only on react
 
